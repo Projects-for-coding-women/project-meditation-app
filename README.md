@@ -1,9 +1,15 @@
-//////...Project Meditation App...//////
+## Project Meditation App
 
-The goal of this project is to practice working with HTML and CSS, with the option to also use Javascript for advance functionality.
-We will be creating a meditation/ambient sounds app that a user can enjoy by picking the amount of time to listen to and choose different ambient sounds.
-We will be working and manipulating music and video with javascript and how to build out a timer.
+### The goal of this project is to practice working with HTML and CSS, including sound files
 
+We will be using HTML, CSS, icons and background images, and .mp3 sound files. For more advanced functionality, JavaScript will be used.
+
+**Basic functionality:** we want to offer the user two options for ambient sound (rain or sea). The user can enjoy the sound by picking one of three options of listening time (2, 5 or 10 minutes).
+
+**Additional functionality:** the user can see a timer countdown on the screen and video is added to the app. This will require JavaScript.
+
+This is what the app will look like without added styling:  
+<img src="/meditation_screenshot.png" width="600" /> 
 
 ***For Beginner ****
  -Try to clone the page(as like the screen shoot) with HTML and CSS 
