@@ -2,15 +2,17 @@
 
 ### The goal of this project is to practice working with HTML and CSS, including sound files
 
-We will be using HTML, CSS, icons and background images, and .mp3 sound files. For more advanced functionality, including video, JavaScript will be used.
+We will be using HTML, CSS, icons, background images, as well as .mp3 sound files. For the more advanced version of the project that includes video and a timer, JavaScript will be used.
 
-**Basic functionality:** we want to offer the user two options for ambient sound (rain or sea). The user can enjoy the sound by picking one of three options of listening time (2, 5 or 10 minutes).
+**Basic functionality:** we want to offer the user two options for ambient sound (rain and sea) during meditation. The user can enjoy the sound by picking one of three options of listening time (2, 5 or 10 minutes).
 
-**Additional functionality:** the user can see a timer countdown on the screen and video is added to the app. This will require JavaScript.
+**Additional functionality:** the user can see a timer countdown on the screen and video background is added to the app. This will require JavaScript.
 
 This is what the app will look like, using the icons and images in the starter code of the project (see assets folder):  
 
 <img src="/meditation_screenshot.png" width="600" /> 
+
+---
 
 ### For starters
 
