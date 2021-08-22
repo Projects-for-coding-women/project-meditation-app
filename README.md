@@ -14,7 +14,7 @@ This is what the app will look like, using the icons and images in the starter c
 
 ### For starters
 
-1. Create a new folder on your local computer with the name: project-gnome-fetcher
+1. Create a new folder on your local computer with the name: project-meditation-app
 1. Track your code with Git by using `git init` in the terminal
 1. Create an index.html file with the general template code
 1. Create a style.css file and add this to your HTML file as `<link>` (check how to add CSS to an HTML file)
@@ -40,5 +40,6 @@ This is what the app will look like, using the icons and images in the starter c
 1. Change the `play` icon of the play button to a `pause` icon when the button is clicked, and change it back again when the button is clicked
 1. Stop the music when the `pause` is clicked, and restart when the button is clicked again
 1. Challenge yourself: use video as background instead of images (see video files in folder)
+1. Challenge yourself: create an attractive navbar with all buttons and functionality
 
 ---
