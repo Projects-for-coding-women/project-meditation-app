@@ -41,8 +41,12 @@ This is what the app will look like, using the icons and images in the starter c
 1. Make sure the background changes with the choice of the user of an ambient sound (rain or beach)
 1. Change the `play` icon of the play button to a `pause` icon when the button is clicked, and change it back again when the button is clicked
 1. Stop the music when the `pause` is clicked, and restart when the button is clicked again
-1. Challenge yourself: use video as background instead of images (see video files in folder)
+
+### For graduates
+
+1. Challenge yourself: use video as background instead of images (see video files in folder). This means that when the rain button is clicked for ambient sound, the rain video starts playing as the background instead of seeing the background image
 1. Challenge yourself: create an attractive navbar with all buttons and functionality
+1. Make the app fully responsive for mobile, tablet and desktop
 
 ---
 
